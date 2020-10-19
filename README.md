@@ -11,6 +11,7 @@ Ilgili siteler
 — https://developer.mozilla.org/en-US/
 
 Onemli Basliklar ( Try it yourself yapilacak)
+
 — tags —> https://www.w3schools.com/tags/default.asp 
 (Bakilacak tagler; a, body, br, button, div, footer, h1-h6, head, header, hr, img, li, link, nav, p, script, span, style, ul)         
 — class —> https://www.w3schools.com/html/html_classes.asp
