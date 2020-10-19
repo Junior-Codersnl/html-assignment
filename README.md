@@ -1,4 +1,4 @@
-# Html-assignment
+# 1. Html
 
 Youtube tutorial
 — https://www.youtube.com/watch?v=UInsJSxwYtE&list=PLpowj5MAb-8UWn1KdK3AXu909nIqyqfd2
@@ -18,3 +18,11 @@ Onemli Basliklar ( Try it yourself yapilacak)
 —id —> https://www.w3schools.com/html/html_id.asp                
 — box model —> https://www.w3schools.com/css/css_boxmodel.asp                      
 — websitesinin yapısı —> https://www.w3schools.com/html/html_layout.asp
+
+## Assignment
+
+Odev (Asagidaki sitelerden birinin layoutunun oluşturulması)
+https://refugeetalenthub.com/
+https://echo-net.nl/
+https://www.uaf.nl/
+https://www2.deloitte.com/nl/nl.html
