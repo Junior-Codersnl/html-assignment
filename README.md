@@ -1,2 +1,2 @@
-# html-assignment
-the repo for html assignments of Junior-Codersnl
+# Html-assignment
+Repo for html assignments of Junior-Codersnl
