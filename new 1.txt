@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link  rel="stylesheet">
+  <title>Refugee Talent Hub</title>
+  <style>	
+	
+	a {
+	  float: left;
+	  color: #0b4032;
+	  text-align: center;
+	  padding: 14px 16px;
+	  text-decoration: none;
+	  font-size: 17px;
+	  position: relative;
+      top: 50px;
+      left: 500px;
+	}
+
+	#b{
+	  float: left;
+	  color: #0b4032;
+	  text-align: center;
+	  padding: 14px 16px;
+	  text-decoration: none;
+	  font-size: 17px;
+	  position: relative;
+      top: 500px;
+      left: 330px;
+
+	}
+
+	#c{
+	  float: left;
+	  color: #0b4032;
+	  text-align: center;
+	  padding: 14px 16px;
+	  text-decoration: none;
+	  font-size: 17px;
+	  position: relative;
+      top: 488px;
+      left: 330px;
+
+	}
+
+
+	</style>
+
+
+</head>
+<body>
+	<div style="background-image: url('head_1.jpeg'); width: auto; height: 150px" >
+	
+		<a href="https://refugeetalenthub.com/activiteiten" >Activiteiten</a>
+		<a href="https://refugeetalenthub.com/nieuws">Verhalen</a>
+		<a href="https://refugeetalenthub.com/meer-info/ik-zoek-werk">Info</a>	
+	</div>  
+	<div>
+		<div>
+			<div><img src="pic2.jpeg">
+				 <img src="pic3.jpeg">
+			</div>			
+		</div>	
+
+	</div>
+
+	<div style="background-image: url('pic5.jpeg'); width: 1200px; height: 640px; ">
+		<a id="b" href="https://refugeetalenthub.com/meer-info/ik-zoek-werk" ><img src="pic6.jpeg"; height="70" ></a>
+		<a id="c" href="https://refugeetalenthub.com/meer-info/ik-ben-werkgever" ><img src="pic7.jpeg"; height="90" ></a>		
+	</div>
+    <div>
+		<img src="pic8.jpeg"; style="width: 1250px;">
+	</div>
+	<div>
+		<img src="pic9.jpeg"; style="width: 1250px;">
+	</div>
+    <div>
+		<img src="pic10.jpeg"; style="width: 1250px;">
+	</div>
+</body>
+</html>
