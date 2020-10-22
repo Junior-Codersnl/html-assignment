@@ -1,0 +1,139 @@
+div.Header1 {
+height: 40px;
+background:purple;
+color: white;
+margin:auto;
+padding-right: 100px;
+padding-top: 10px;
+text-align: right;
+word-spacing:25px;
+letter-spacing: 1px;
+}
+
+a.aHeader {
+    color:white;
+    text-decoration: none;
+}
+
+div.Nav1 {
+    height: 40px;
+    background:purple;
+    color: white;
+    margin:auto;
+    padding-right: 100px;
+    padding-top: 10px;
+    text-align: right;
+    word-spacing:25px;
+    letter-spacing: 1px;
+    
+}
+
+a.aNav {
+    color:white;
+    text-decoration: none;
+    word-spacing:5px;
+    font-size: larger;
+    font-weight: bold;
+}
+
+section#main {
+    height: 600px;
+    margin:auto;
+}
+
+section#main img {
+    width: 100%;
+    height: 100%;
+}
+
+section#activities img {
+    float: left;
+    width: 75%;
+    height: 75%;
+}
+
+section#activities {
+    height: 400px;
+    margin: 50px;
+    padding: 100px,25px,100px,25px;
+    display: flex;
+}
+
+section#activities p {
+    color: purple;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+section#activities a{
+    color:green;
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+div#meeting a {
+    color:green;
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+div#meeting img {
+    width: 40%;
+    height: 100%;
+}
+
+div#meeting {
+    height: 400px;
+    margin: 50px;
+    background-color: purple;
+    color: white;
+    text-align: left;
+    font-weight: bold;
+    font-size: x-large;
+    display: flex;
+}
+
+section#updates {
+    height: 300px;
+    width: 800px;
+    margin: 50px;
+}
+
+div.newsBox {
+    height: 200px;
+    width: 200px;
+    margin: 25px;
+    background-color: lightgreen;
+    color: white;
+    font-size: x-large;
+    text-align: center;
+    float: left;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap ;
+    justify-content: center;
+    align-content: center;
+    
+}
+
+div#aboutUs {
+    height: 300px;
+    width: 600px;
+    margin: 25px;
+    font-family: Arial;
+}
+
+div#Footer1 {
+height: 200px;
+background:purple;
+color: white;
+margin:auto;
+padding-right: 100px;
+padding-top: 10px;
+text-align: center;
+letter-spacing: 1px;
+}
