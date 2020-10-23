@@ -1,0 +1,150 @@
+body {
+    background-color: powderblue;
+}
+        
+ul {
+    color: red;
+}
+        
+p {
+    color: blue;
+}
+#about > div > div.vc_row.wpb_row.vc_row-fluid.text-center > div.text-center.wpb_column.vc_column_container.vc_col-sm-8 > div > div > div:nth-child(1) > h1
+/* This is a single-line comment */
+
+/* This is
+a multi-line
+comment */
+
+/* header */
+
+/* section */
+
+/* footer */
+.first-para{
+    border:1px solid red;
+    padding:50px;
+    margin-bottom:150px;
+}
+
+.second-para{
+    border:1px solid red;
+    padding:50px
+}
+.flexxx-para{
+    width: 220px;
+    padding: 10px;
+    margin: 0;
+}
+
+.flexxx-child{
+    border:1px solid red;
+    
+}
+
+.flexxx{
+    background-color: DodgerBlue;
+    border:1px solid red;
+    display:flex;
+    /* height: 1000px; */
+    flex-direction: row;
+    /* flex-direction: column; */
+    /* justify-content: center; */
+    /* justify-content: flex-start; */
+    /* justify-content: flex-end; */
+    /* justify-content: space-around; */
+    /* justify-content: space-between; */
+    /* align-items: center */
+    /* align-items: flex-start */
+    /* align-items: flex-end */
+    /* align-items: stretch */
+
+    /*Perfect centering*/
+}
+
+@media (max-width: 800px) {
+    .flexxx {
+      flex-direction: column;
+    }
+  }
+
+  /*
+  
+  --- Margin-padding ---
+  margin: 20px 15px 25px 20px;  shorthand??
+  margin:auto (horizontally center)
+  padding-right:5px;  shorthand??
+  box-sizing: border-box;
+
+  ---- Background--- 
+  background-color: lightblue;
+  opacity: 0.3
+  background: rgba(0, 128, 0, 0.3)
+  background-image: url("paper.gif")
+  background-repeat: repeat-x, repeat-y, no-repeat 
+  background-position: right top
+  background-attachment: fixed, scroll
+ 
+  --- Border ----
+  border-style: solid dotted, dashed
+  border-width: 5px
+  border-color: red
+  border:1px solid red;
+  border-radius: 5px;
+  height: 200px;
+  width: 50%, 500px;
+
+  ---- Text -----
+  color: blue
+  text-align: center,left, right, justify
+  vertical-align: top, middle, bottom
+  text-decoration: none, underline
+  text-transform: uppercase, lowercase, capitalize
+  text-shadow: 2px 2px
+
+  ---- Font -----
+  font-family: "Times New Roman", Times, serif
+  font-style: normal, italic
+  font-weight: normal, bold
+  font-size: 2.5em
+
+  ----- Link ------
+
+    a:link {
+        color: red;
+    } 
+    unvisited
+    
+
+    a:visited {
+        color: green;
+    } 
+    visited
+    
+    a:hover {
+        color: hotpink;
+        text-decoration: underline
+        background-color: lightgreen
+    }
+    hover
+    
+    
+    a:active {
+        color: blue;
+    } 
+    active
+
+
+    ----- List ----
+    ul.a {
+        list-style-type: none, circle, square, upper-roman, lower-alpha(a,b,c);
+    }
+    ----- Display -----
+    display: none, inline, block, inline-block; https://www.w3schools.com/css/tryit.asp?filename=trycss_inline-block_span1
+
+   ---- Oveflow -----
+    overflow:visible, hidden, scroll
+    z-index: -1
+
+
+  */
